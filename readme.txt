@@ -5,6 +5,8 @@ Tags: Back to Top, Back Top, scroll to top, scroll top, back to top, jquery, cs 
 Requires at least: 2.9.2
 Tested up to: 4.2.2
 Stable tag: 1.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 CS BackTop is a lightweight wordpress plugin to integrate a customizable Back to Top feature to any website with ease.
 
@@ -30,13 +32,32 @@ Supported features:
 * Configure any Settings as desired, and then enable the plugin
 * That's it!
 
+== Frequently Asked Questions ==
+
+Where can I find the settings to adjust the plugin work after activation?
+In the Wordpress Dashboard sidebar Menu, you can find a link "CS-BackTop" to the settings page.
+
+After the plugin installation I haven't adjusted the settings. What is the default settings used in this plugin?
+Scroll Position from Top - 400, Icon Appearance Speed - 1000, Icon Color Style - Black, Icon Size - Small.
+
+What are the different size options available for this plugin?
+There are mainly 3 sizes of this plugin frontend view available: Small, Medium and Large.
+
+What are the different Color Options available for this plugin?
+Mainly 4 color options are available with this plugin: Black, Red, Green and White.
+
 == Screenshots ==
-
-
+1. CS-BackTop default wordpress Front-end view
+2. Plugin settings in WordPress admin panel
 
 == Changelog ==
+= 1.0 =
+* Ability to add a Back To Top feature to any website without any extra code.
 
 
+== Upgrade Notice ==
+
+Initial Version. No Upgrade notice yet.
 
 == CREDIT ==
 
